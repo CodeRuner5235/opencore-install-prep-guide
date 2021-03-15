@@ -6,7 +6,9 @@ drives to install macOS. MacOS is not like windows.
 It doesnt make the partitions that it needs. Instead,
 it expacts them to be premade for it. If its not properly
 partitioned, or the partitons are not the right size, or
-in the right place, them macOS wont install. 
+in the right place, them macOS wont install. This is a 
+video for you folks who need to see to understand how 
+to do it.
 
 What will be covered
 
