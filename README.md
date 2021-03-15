@@ -18,7 +18,7 @@ Again, I am NOT showing you how to install opencore,
 just how to prepare the drives for opencore
 
 The file is too large for github, go here is the video link.
-There will also be a text guide (latter).
+There will also be a text guide (later).
 
 onedrive link:
 https://1drv.ms/u/s!AsIhPYDLx1CPj37fLEgsXJnxCEdH?e=Xk8eM8
